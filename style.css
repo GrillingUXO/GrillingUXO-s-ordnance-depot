@@ -1,0 +1,21 @@
+/* Add custom styles here */
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+header {
+    background-color: #1a202c; /* Darker background for header */
+}
+
+header h1 {
+    color: #edf2f7; /* Lighter text for header title */
+}
+
+nav a {
+    color: #a0aec0; /* Lighter color for navigation links */
+}
+
+nav a:hover {
+    color: #cbd5e0; /* Change color on hover */
+}
